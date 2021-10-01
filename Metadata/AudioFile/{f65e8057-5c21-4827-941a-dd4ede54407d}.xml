@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f65e8057-5c21-4827-941a-dd4ede54407d}">
+		<property name="assetPath">
+			<value>Halo - Combat Evolved/music/haloperc/loops.hperc_lp3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.6873469387755105</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50b460cc-7451-46f8-8f34-2d9189a2e78e}</destination>
+		</relationship>
+	</object>
+</objects>

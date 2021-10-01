@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f79e9313-56ba-4396-b241-8b29b38a50df}">
+		<property name="assetPath">
+			<value>Halo - Combat Evolved/music/rhythm1/loops.rhythm1_3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.9994104308390019</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50b460cc-7451-46f8-8f34-2d9189a2e78e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{159f4c5e-e77d-4418-8268-1175875f2929}">
+		<property name="assetPath">
+			<value>Halo - Combat Evolved/music/battle2_full/out.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.9308843537414973</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50b460cc-7451-46f8-8f34-2d9189a2e78e}</destination>
+		</relationship>
+	</object>
+</objects>

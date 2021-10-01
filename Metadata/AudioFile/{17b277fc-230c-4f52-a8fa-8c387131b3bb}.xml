@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{17b277fc-230c-4f52-a8fa-8c387131b3bb}">
+		<property name="assetPath">
+			<value>Halo - Combat Evolved/music/spooky6/in.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.398412698412699</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50b460cc-7451-46f8-8f34-2d9189a2e78e}</destination>
+		</relationship>
+	</object>
+</objects>

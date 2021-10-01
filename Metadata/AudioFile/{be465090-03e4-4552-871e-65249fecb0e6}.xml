@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{be465090-03e4-4552-871e-65249fecb0e6}">
+		<property name="assetPath">
+			<value>God of War/015.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>4</value>
+		</property>
+		<property name="length">
+			<value>68.846666666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{50b460cc-7451-46f8-8f34-2d9189a2e78e}</destination>
+		</relationship>
+	</object>
+</objects>
